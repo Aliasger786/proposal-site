@@ -58,10 +58,9 @@ export default function Page() {
           />
           <img
             className="h-[230px] rounded-lg shadow-lg"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
-          />
+            src="f2.jpeg"/>
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Can you forgive me, my 🥺❤️
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
